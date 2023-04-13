@@ -1,7 +1,7 @@
 pipeline {
     agent any
     environment{
-        IMAGE_NAME= 'jd09/devops_prac_exam-app:6.3'
+        IMAGE_NAME= 'jd09/devops_spring_exam-app:6.3'
     }
 
     stages {
